@@ -15,7 +15,7 @@ Each **AI agent automation flow** is housed in a **separate repository**, allowi
 | **AI Agent Automation Flow**  | **Description**  | **Repository**  |
 |------------------------------|----------------|----------------|
 | **Lead & Inquiry Processing** | Automates lead evaluation, scoring, and inquiry processing. | [Multi-AI-Agent-System-Lead-Inquiry](https://github.com/arashghezavati/Multi-AI-Agent-System-Lead-Inquiry) |
-| **Property Management** *(Coming Soon)* | AI-driven property management workflow. | [Multi-AI-Agent-System-Property-Management](https://github.com/arashghezavati/Multi-AI-Agent-System-Property-Management) |
+| **Property Management** *(Coming Soon)* | AI-driven property management workflow. | Coming Soon |
 
 ---
 
