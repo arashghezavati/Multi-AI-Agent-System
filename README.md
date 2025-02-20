@@ -27,8 +27,3 @@ For a deeper understanding of how MAS works, check out the detailed documentatio
 
 ---
 
-## 🚀 How to Use MAS
-### Clone the repository
-```sh
-git clone https://github.com/arashghezavati/Multi-AI-Agent-System.git
-cd Multi-AI-Agent-System
