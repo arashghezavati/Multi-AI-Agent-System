@@ -1,4 +1,4 @@
-# Multi-AI Agent System (MAS) 🧠🚀
+# Multi-AI Agent System (MAS) 
 
 ## 🔹 Overview
 The **Multi-AI Agent System (MAS)** is a **modular, scalable, and AI-powered automation platform** designed to automate business processes across multiple industries. 
