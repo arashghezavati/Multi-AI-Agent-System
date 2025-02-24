@@ -21,13 +21,7 @@ These agents form the backbone of the system and are always running:
 - Handles authentication.
 - Performs load balancing.
 
-### **4. Email Agent**
-- Core email communication.
-- Gmail API integration.
-- Email fetching and sending.
-- Email queue management.
-
-### **5. Logging Agent**
+### **4. Logging Agent**
 - System-wide logging.
 - Error tracking.
 - Performance monitoring.
